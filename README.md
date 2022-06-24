@@ -2,7 +2,7 @@
 
 <hr />
 
-<a href="https://www.linkedin.com/in/murilo-marques-b42760115/](https://www.linkedin.com/in/humzanadeem/">
+<a href="https://www.linkedin.com/in/humzanadeem/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
 <a href="mailto:imhumzanadeem@gmail.com">
