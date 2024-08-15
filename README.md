@@ -15,7 +15,7 @@
 <br/>
 
 ### About Me 🚀
-💻 I’m a **ReactJs and Magento 2 developer** with a bachelor's degree in Computer Sciences. </br> </br>
+💻 I’m a **MERN Stack and Magento 2 developer** with a bachelor's degree in Computer Sciences. </br> </br>
 💬 Feel more than welcome to contact me if you need any help or want to discuss any software development topic! </br></br>
    
  <b><i>I truly believe that with my skills in current technology and software development, I have the power to change people's lives for the better. 
